@@ -7,9 +7,9 @@ This is where I share the projects I've done and working on and collaborate with
 ## 🔍 Find me on:
 
 <p>
-<li><a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="https://stevenabaco.dev/static/media/abacoLogoTransparent.590ba29c.png" alt="Steven Abaco Logo" height="50" style="margin: 10px"> </a> </li>
- <li> <a href="https://www.linkedin.com/in/stevenabaco/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="50" style="margin: 10px"></a></li>
-<li> <a href="mailto:stevenabaco@gmail.com"> <img src="https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" alt="email" height="50" style="margin: 10px"></a></li>
+<li><a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="https://stevenabaco.dev/static/media/abacoLogoTransparent.590ba29c.png" alt="Steven Abaco Logo" height="50" style="margin: 10px, display: inline-block"> </a> </li>
+ <li> <a href="https://www.linkedin.com/in/stevenabaco/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="50" style="margin: 10px, display: inline-block"></a></li>
+<li> <a href="mailto:stevenabaco@gmail.com"> <img src="https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" alt="email" height="50" style="margin: 10px, display: inline-block"></a></li>
 </p>
 
 <br />
