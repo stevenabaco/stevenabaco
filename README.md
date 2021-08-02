@@ -1,10 +1,10 @@
 #  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> My name is <a href="https://www.stevenabaco.dev"> Steven Abaco</a>
 This is where I share the projects I've done and working on and collaborate with fellow developers.
-## About Me 🔍
+## About Me &nbsp; 🔍
 - 🔭 - I’m currently working on networking and finding a job in the field:exclamation: 
 - 🌱 - I’m currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs):exclamation: 
 
-## Let's connect <img src="handshake.gif" alt="handshake" width="30">
+## Let's connect &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
 <a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="abaco-logo.png" alt="Steven Abaco Logo" height="50" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/stevenabaco/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="50" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
