@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on networking and finding a job in the field!
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MERN stack (MongoDb, Express, ReactJs, NodeJs)!
