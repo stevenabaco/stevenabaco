@@ -1,6 +1,6 @@
 #  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> My name is <a href="https://www.stevenabaco.dev"> Steven Abaco</a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)
-<p>This is where I share the projects I've done and working on and collaborate with fellow developers.</p>
+<p>This is where I share the projects I've done and working on as well as collaborate with fellow developers.</p>
 
 ### ABOUT ME &nbsp; 🔍
 - 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
@@ -19,5 +19,6 @@
 <a href="https://nodejs.org/en//" target="_blank" rel="noopener noreferrer"> <img src="node.png" alt="NodeJs Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="express-logo.jpeg" alt="Express Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="mongo-logo.png" alt="MongoDb Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="vs-code-logo.png" alt="VsCode Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
