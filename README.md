@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/stevenabaco/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:stevenabaco@gmail.com"> <img src="https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" alt="email" height="30" style="margin: 10, display: inline-block"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### :hammer_and_wrench: & Skills &nbsp; <img src="skills.gif" width="30">
+### :hammer_and_wrench: &nbsp; Dev Toolbelt & Skills <img src="skills.gif" width="20">
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"> <img src="js6.svg" alt="Javascript Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="react_logo.png" alt="ReactJs Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
