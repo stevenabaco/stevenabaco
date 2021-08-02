@@ -1,5 +1,5 @@
 # Hi there 👋🏻 My name is <a href="https://www.stevenabaco.dev">Steven Abaco</a>
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!--
 **stevenabaco/stevenabaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
