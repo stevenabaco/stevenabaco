@@ -1,23 +1,23 @@
-#  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> My name is <a href="https://www.stevenabaco.dev"> Steven Abaco</a>
+##  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> My name is <a href="https://www.stevenabaco.dev"> Steven Abaco</a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)
 <p>This is where I share the projects I've done and working on and collaborate with fellow developers.</p>
 
-## About Me &nbsp; 🔍
+### About Me &nbsp; 🔍
 - 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
 - 🌱 - I’m currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) ❗
 
-## Let's connect &nbsp; <img src="handshake.gif" alt="handshake" width="60">
+### Let's connect &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
-<a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="abaco-logo.png" alt="Steven Abaco Logo" height="50" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.linkedin.com/in/stevenabaco/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="50" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:stevenabaco@gmail.com"> <img src="https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" alt="email" height="50" style="margin: 10, display: inline-block"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="abaco-logo.png" alt="Steven Abaco Logo" height="30" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/stevenabaco/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:stevenabaco@gmail.com"> <img src="https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" alt="email" height="30" style="margin: 10, display: inline-block"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Languages & Skills &nbsp; <img src="skills.gif" width="40">
+### :hammer_and_wrench: & Skills &nbsp; <img src="skills.gif" width="30">
 
-<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"> <img src="js6.svg" alt="Javascript Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"> <img src="js6.svg" alt="Javascript Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="react_logo.png" alt="ReactJs Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nodejs.org/en//" target="_blank" rel="noopener noreferrer"> <img src="node.png" alt="NodeJs Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="express-logo.jpeg" alt="Express Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="mongo-logo.png" alt="MongoDb Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org/en//" target="_blank" rel="noopener noreferrer"> <img src="node.png" alt="NodeJs Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="express-logo.jpeg" alt="Express Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="mongo-logo.png" alt="MongoDb Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
