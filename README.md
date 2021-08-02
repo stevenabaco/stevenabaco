@@ -12,8 +12,10 @@ This is where I share the projects I've done and working on and collaborate with
 
 ## Languages & Skills &nbsp; <img src="skills.gif" width="40">
 
-<a href="https://www.reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="react_logo.png" alt="ReactJs Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"> <img src="js6.svg" alt="Javascript Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="mongo-logo.png" alt="MongoDb Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="express-logo.jpeg" alt="Express Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="react_logo.png" alt="ReactJs Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org/en//" target="_blank" rel="noopener noreferrer"> <img src="node.png" alt="NodeJs Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="express-logo.jpeg" alt="Express Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="mongo-logo.png" alt="MongoDb Logo" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
