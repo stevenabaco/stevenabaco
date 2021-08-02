@@ -1,4 +1,5 @@
 #  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> My name is <a href="https://www.stevenabaco.dev"> Steven Abaco</a>
+![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)
 This is where I share the projects I've done and working on and collaborate with fellow developers.
 ## About Me &nbsp; 🔍
 - 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
