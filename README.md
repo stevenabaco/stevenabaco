@@ -15,6 +15,7 @@
 ###  DEV TOOLBELT & SKILLS <img src="skills.gif" width="20">
 
 <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"> <img src="js6.svg" alt="Javascript Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com//" target="_blank" rel="noopener noreferrer"> <img src="git-logo.png" alt="Git Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="react_logo.png" alt="ReactJs Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org/en//" target="_blank" rel="noopener noreferrer"> <img src="node.png" alt="NodeJs Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="express-logo.jpeg" alt="Express Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
