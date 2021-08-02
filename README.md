@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on networking and finding a job in the field!
-- 🌱 I’m currently learning MERN stack (MongoDb, Express, ReactJs, NodeJs)!
-- 🤔 I’m looking for help with finding a job as a Web Developer !
+- 🔭 - I’m currently working on networking and finding a job in the field!
+- 🌱 - I’m currently learning MERN stack (MongoDb, Express, ReactJs, NodeJs)!
+- 🤔 - I’m looking for help with finding a job as a Web Developer !
