@@ -1,4 +1,4 @@
-# Hi there 👋🏻 My name is <a href="https://www.stevenabaco.dev">Steven Abaco</a>
+# ![bounce emoji](bounce-emoji.gif)Hi there 👋🏻 My name is <a href="https://www.stevenabaco.dev">Steven Abaco</a>
 
 <!--
 **stevenabaco/stevenabaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
