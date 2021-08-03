@@ -4,6 +4,7 @@
 
 <p>I'm an aspiring Full-Stack Web Developer.  </p>
 <p>This is where I collaborate with fellow developers.</p>
+<p>It's also where I share my projects I'm working on or completed</p>
 
 ### MORE ABOUT ME 
 - 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
