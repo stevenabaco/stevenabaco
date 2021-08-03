@@ -1,8 +1,11 @@
-#  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> My name is <a href="https://www.stevenabaco.dev"> Steven Abaco</a>
-![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)
-<p>This is where I share the projects I've done and working on as well as collaborate with fellow developers.</p>
+###  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)
 
-### ABOUT ME &nbsp; 🔍
+<p>I'm Steven Abaco, an aspiring Full-Stack Web Developer.  </p>
+<p>I have a diverse background in Finance, Accounting, and Construction Project Management, but
+have now found my real passion for web technologies. 
+<p>This is where I share the projects I completed, am working on, as well as collaborate with fellow developers.</p>
+
+### MORE ABOUT ME 
 - 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
 - 🌱 - I’m currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) ❗
 
