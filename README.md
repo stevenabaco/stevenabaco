@@ -1,10 +1,12 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)&nbsp;[![Github](https://img.shields.io/github/followers/Stevenabaco?label=Follow&style=social)](https://github.com/Stevenabaco)
 ###  Hi &nbsp; <img src="bounce-emoji.gif" alt="bounce gif" width="30"> 
-
+<div>
 <p>I'm an aspiring Full-Stack Web Developer.  </p>
 <p>This is where I collaborate with fellow developers.</p>
 <p>It's also where I share my projects I'm working on or completed.</p>
+</div>
+
 
 ### :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; &nbsp;  LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
