@@ -7,8 +7,6 @@
 <p>It's also where I share my projects I'm working on or completed.</p>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenabaco)](https://github.com/stevenabaco/github-readme-stats)
-
 ### :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; &nbsp;  LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
 <a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="abaco-logo.png" alt="Steven Abaco Logo" height="30" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -31,4 +29,6 @@
 - 🔭 &nbsp; &nbsp; I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
 - 🌱 &nbsp; &nbsp;Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
 
+### SOME OF MY GITHUB STATS
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenabaco)](https://github.com/stevenabaco/github-readme-stats)
