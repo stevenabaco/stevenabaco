@@ -6,10 +6,6 @@
 <p>This is where I collaborate with fellow developers.</p>
 <p>It's also where I share my projects I'm working on or completed</p>
 
-### MORE ABOUT ME 
-- 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
-- 🌱 - I’m currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) ❗
-
 ### LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
 <a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="abaco-logo.png" alt="Steven Abaco Logo" height="30" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -26,4 +22,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="mongo-logo.png" alt="MongoDb Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="vs-code-logo.png" alt="VsCode Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+### MORE ABOUT ME 
+- 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
+- 🌱 - I’m currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) ❗
 
