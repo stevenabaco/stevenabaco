@@ -4,7 +4,7 @@
 
 <p>I'm an aspiring Full-Stack Web Developer.  </p>
 <p>This is where I collaborate with fellow developers.</p>
-<p>It's also where I share my projects I'm working on or completed</p>
+<p>It's also where I share my projects I'm working on or completed.</p>
 
 ### LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
@@ -25,6 +25,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="vs-code-logo.png" alt="VsCode Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### MORE ABOUT ME 
-- 🔭 - I’m an aspiring Full Stack Web Developer. Formerly a Construction Project Manager ❗
-- 🌱 - I’m currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) ❗
+- 🔭 &nbsp;&nbsp; I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
+- 🌱 &nbsp;&nbsp;I’m currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
+- :triangular_flag_on_post:&nbsp;&nbsp; I'm looking to collaborate on Web Development Projects &nbsp; ❗
 
