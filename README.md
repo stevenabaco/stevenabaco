@@ -3,7 +3,7 @@
 
 # Hello! My name is Steve. 👋🏻 
 <div>
-## I'm an Web Developer specializing in JavaScript with React and its ecosystem.  </p>
+## I'm an Web Developer specializing in JavaScript with React and its ecosystem.
 
 ### :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; &nbsp;  LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
