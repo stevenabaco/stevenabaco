@@ -1,8 +1,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)&nbsp;[![Github](https://img.shields.io/github/followers/Stevenabaco?label=Follow&style=social)](https://github.com/Stevenabaco)
 
-# Hello! My name is Steve. 👋🏻
-# :triangular_flag_on_post:<span>AVAILABLE FOR HIRE</span>:triangular_flag_on_post:
+# Hello! My name is Steve. 👋🏻 💥AVAILABLE FOR HIRE💥
 
 ## I am a Web Developer specializing in JavaScript and the ReactJs ecosystem. 
 
