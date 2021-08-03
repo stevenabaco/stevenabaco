@@ -25,7 +25,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="vs-code-logo.png" alt="VsCode Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### MORE ABOUT ME 
-- 🔭 &nbsp;&nbsp; I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
-- 🌱 &nbsp;&nbsp;Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
-- :triangular_flag_on_post:&nbsp;&nbsp; Looking to collaborate on Web Development Projects and :triangular_flag_on_post:&nbsp;AVAILABLE FOR HIRE&nbsp;:triangular_flag_on_post: &nbsp; ❗
+- 🔭 &nbsp; &nbsp; I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
+- 🌱 &nbsp; &nbsp;Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
+- :triangular_flag_on_post:&nbsp; &nbsp; Looking to collaborate on Web Development Projects and :triangular_flag_on_post:&nbsp; &nbsp; AVAILABLE FOR HIRE &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; ❗
 
