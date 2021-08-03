@@ -1,4 +1,6 @@
-###  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)
+
+# ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)
+###  Hi there <img src="bounce-emoji.gif" alt="bounce gif" width="30"> 
 
 <p>I'm Steven Abaco, an aspiring Full-Stack Web Developer.  </p>
 <p>I have a diverse background in Finance, Accounting, and Construction Project Management, but
