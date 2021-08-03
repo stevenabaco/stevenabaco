@@ -7,6 +7,7 @@
 <p>It's also where I share my projects I'm working on or completed.</p>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenabaco)](https://github.com/stevenabaco/github-readme-stats)
 
 ### :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; &nbsp;  LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
