@@ -1,8 +1,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)&nbsp;[![Github](https://img.shields.io/github/followers/Stevenabaco?label=Follow&style=social)](https://github.com/Stevenabaco)
 # Hello! I'm Steven Abaco 😃
-## A Web Developer specializing in JavaScript and the ReactJs ecosystem. 
-## 💥Interested in Freelancing and direct hire opportunities💥
+## A Web Developer specializing in JavaScript and ReactJs ecosystem. 
+## 💥Interested in JavaScript & ReactJs opportunities💥
 
 ###  DEV TOOLBELT & SKILLS <img src="skills.gif" width="20">
 
@@ -17,11 +17,11 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="vs-code-logo.png" alt="VsCode Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### MORE ABOUT ME 
-- I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
-- Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
-- Interested in any Freelancing or open source projects and opportunities &nbsp; ❗
+- I have a diverse background in Finance, Accounting, Real Estate, Project Management❗
+- Achieved getting an MBA in Finance, and BS in Accounting❗
+- Fluent in Romanian and English❗
 
-### SOME OF MY GITHUB STATS
+#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenabaco)](https://github.com/stevenabaco/github-readme-stats)
 
