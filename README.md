@@ -3,10 +3,7 @@
 
 # Hello! My name is Steve. 👋🏻 
 <div>
-<p>I'm an aspiring Full-Stack Web Developer.  </p>
-<p>This is where I collaborate with other developers.</p>
-<p>It's also where I share my projects I'm working on or completed.</p>
-</div>
+## I'm an Web Developer specializing in JavaScript with React and its ecosystem.  </p>
 
 ### :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; &nbsp;  LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
