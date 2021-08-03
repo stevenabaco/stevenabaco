@@ -27,5 +27,5 @@
 ### MORE ABOUT ME 
 - 🔭 &nbsp;&nbsp; I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
 - 🌱 &nbsp;&nbsp;Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
-- :triangular_flag_on_post:&nbsp;&nbsp; Looking to collaborate on Web Development Projects and :triangular_flag_on_post:AVAILABLE FOR HIRE:triangular_flag_on_post: &nbsp; ❗
+- :triangular_flag_on_post:&nbsp;&nbsp; Looking to collaborate on Web Development Projects and :triangular_flag_on_post:&nbsp;AVAILABLE FOR HIRE&nbsp;:triangular_flag_on_post: &nbsp; ❗
 
