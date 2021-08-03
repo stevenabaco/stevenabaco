@@ -6,7 +6,7 @@
 <p>This is where I collaborate with fellow developers.</p>
 <p>It's also where I share my projects I'm working on or completed.</p>
 
-### LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
+### :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp; LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
 <a href="https://www.stevenabaco.dev" target="_blank" rel="noopener noreferrer"> <img src="abaco-logo.png" alt="Steven Abaco Logo" height="30" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/stevenabaco/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" style="margin: 10"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,5 +27,5 @@
 ### MORE ABOUT ME 
 - 🔭 &nbsp; &nbsp; I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
 - 🌱 &nbsp; &nbsp;Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
-- :triangular_flag_on_post:&nbsp; &nbsp; Looking to collaborate on Web Development Projects and :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; ❗
+
 
