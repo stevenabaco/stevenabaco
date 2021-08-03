@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)&nbsp;[![Github](https://img.shields.io/github/followers/Stevenabaco?label=Follow&style=social)](https://github.com/Stevenabaco)
 
 # Hello! My name is Steve. 👋🏻 
-<div>
+
 ## I'm an Web Developer specializing in JavaScript with React and its ecosystem.
 
 ### :triangular_flag_on_post:&nbsp; &nbsp; <span>AVAILABLE FOR HIRE</span> &nbsp; &nbsp;:triangular_flag_on_post: &nbsp; &nbsp;  LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
