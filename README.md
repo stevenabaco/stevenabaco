@@ -26,8 +26,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="vs-code-logo.png" alt="VsCode Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### MORE ABOUT ME 
-- 🔭 &nbsp; &nbsp; I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
-- 🌱 &nbsp; &nbsp;Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
+- I have a diverse background in Finance, Accounting, Real Estate, Project Management &nbsp; ❗
+- Currently focused on mastering the MERN stack (MongoDb, Express, ReactJs, NodeJs) &nbsp; ❗
+- Interested in any Freelancing or open source projects and opportunities &nbsp; ❗
 
 ### SOME OF MY GITHUB STATS
 
