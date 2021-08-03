@@ -3,7 +3,7 @@
 ###  Hi &nbsp; <img src="bounce-emoji.gif" alt="bounce gif" width="30"> 
 <div>
 <p>I'm an aspiring Full-Stack Web Developer.  </p>
-<p>This is where I collaborate with fellow developers.</p>
+<p>This is where I collaborate with other developers.</p>
 <p>It's also where I share my projects I'm working on or completed.</p>
 </div>
 
