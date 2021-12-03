@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=stevenabaco.atevenabaco)&nbsp;[![Github](https://img.shields.io/github/followers/Stevenabaco?label=Follow&style=social)](https://github.com/Stevenabaco)
 # Hello! I'm Steven Abaco 😃
-## A Web Developer specializing in JavaScript and ReactJs ecosystem. 
+## A Web Developer specializing in JavaScript and ReactJs ecosystems. 
 ## 💥Interested in JavaScript & ReactJs opportunities💥
 
 ###  DEV TOOLBELT & SKILLS <img src="skills.gif" width="20">
