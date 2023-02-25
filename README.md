@@ -25,8 +25,9 @@
 #
 <!-- by: https://github.com/anuraghazra/github-readme-stats -->
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenabaco)](https://github.com/stevenabaco/github-readme-stats)
-
+</p>
 <p align="center">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenabaco&&layout=compact&custom_title=Languages" />
 </p>
