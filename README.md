@@ -11,6 +11,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer"> <img src="html5.png" alt="HTML Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noopener noreferrer"> <img src="css3.png" alt="CSS Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="react_logo.png" alt="ReactJs Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"> <img src="nextjs_logo.png" alt="Nextjs Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org/en//" target="_blank" rel="noopener noreferrer"> <img src="node.png" alt="NodeJs Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.expressjs.com/" target="_blank" rel="noopener noreferrer"> <img src="express-logo.jpeg" alt="Express Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="mongo-logo.png" alt="MongoDb Logo" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
