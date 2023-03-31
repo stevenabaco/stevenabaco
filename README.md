@@ -22,14 +22,6 @@
 - Achieved getting an MBA in Finance, and BS in Accounting❗
 - Fluent in Romanian and English❗
 
-#
-<!-- by: https://github.com/anuraghazra/github-readme-stats -->
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenabaco)](https://github.com/stevenabaco/github-readme-stats)
-
-
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenabaco&&layout=compact&custom_title=Languages" />
 
 <!-- ### LET'S CONNECT &nbsp; <img src="handshake.gif" alt="handshake" width="60">
 
